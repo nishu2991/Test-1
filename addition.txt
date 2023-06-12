@@ -1,0 +1,13 @@
+// Function to add two numbers
+function addNumbers(num1, num2) {
+    return num1 + num2;
+}
+
+// Main program
+// Get input from the user
+var num1 = parseFloat(prompt("Enter the first number: "));
+var num2 = parseFloat(prompt("Enter the second number: "));
+
+// Call the addNumbers function and print the result
+var result = addNumbers(num1, num2);
+console.log("The sum of", num1, "and", num2, "is", result);
