@@ -1,0 +1,11 @@
+// Function to subtract two numbers
+function subtractNumbers(num1, num2) {
+  return num1 - num2;
+}
+
+// Example usage
+const number1 = 10;
+const number2 = 5;
+const result = subtractNumbers(number1, number2);
+
+console.log("The result of subtracting", number2, "from", number1, "is", result);
