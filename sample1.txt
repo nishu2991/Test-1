@@ -1,2 +1,0 @@
-Hello I'm making these changes in sample1.txt  and let see if its getting pushed in git.
-
